@@ -1,2 +1,2 @@
 # Banking-App
-Banking App using Python, A transaction process.
+Banking App using Python, A transaction process Programm
